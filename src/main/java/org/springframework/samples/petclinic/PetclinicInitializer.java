@@ -35,6 +35,7 @@ import javax.servlet.ServletContext;
  * <p/>
  *
  * @author Antoine Rey
+ * hello testing guru
  */
 public class PetclinicInitializer extends AbstractDispatcherServletInitializer {
 
